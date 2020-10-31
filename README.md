@@ -19,6 +19,8 @@ To interact with the website, type "heroku open" in the command line or, follow 
 ## Heroku website link:
 https://rocky-lake-14135.herokuapp.com/ 
 
+![picture](./techblogMVC.png)
+
     
 ## Credits 
 Starter code from the UofA Coding Bootcamp
